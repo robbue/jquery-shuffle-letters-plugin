@@ -1,3 +1,5 @@
+**WARNING: This repo is archived for the obvious reasons and you really should not use it**
+
 JQuery Shuffle Letters Plugin
 =============================
 
